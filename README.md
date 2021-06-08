@@ -3,8 +3,8 @@
 <h2>Find me around the web:</h2>
 ---
 <ul>
-  <li>[LinkedIn](https://www.linkedin.com/christinichka)</li>
-  <li>[Twitter](https://www.twitter.com/christinichka)</li>
+  <li>[LinkedIn](https://www.linkedin.com/in/christina-varghese/)</li>
+  <li>[Twitter](https://twitter.com/Christinichka)</li>
 
 <!--
 **christinichka/christinichka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
