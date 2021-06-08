@@ -1,10 +1,9 @@
 <h1> Hi, I'm Christina 👋 </h1>
 
-<h2>Find me around the web:</h2>
+<!-- <h2>Find me around the web:</h2><br>
 ---
-<ul>
-  <li>LinkedIn [LinkedIn](https://www.linkedin.com/in/christina-varghese/)</li>
-  <li>Twitter [Twitter](https://twitter.com/Christinichka)</li>
+[LinkedIn](https://www.linkedin.com/in/christina-varghese)</li>
+[Twitter](https://twitter.com/Christinichka)</li> -->
 
 <!--
 **christinichka/christinichka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
