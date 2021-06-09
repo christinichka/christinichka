@@ -1,14 +1,15 @@
-<h2>👋 Hi, I'm Christina</h2> Full-Stack Developer based in Saint Louis, Missouri
+# 👋 Hi, I'm Christina 
+### Full-Stack Developer based in Saint Louis, Missouri
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=christinichka.christinichka) -->
 
 <!-- <h3>Full-Stack Developer</h3> -->
-<div align="right">Connect with me around the web 🌎:
+<div align="right"> Connect with me around the web 🌎:
 
 <a href="https://www.linkedin.com/in/christina-varghese"> ![alt text](https://img.shields.io/badge/-LinkedIn-informational?style=plastic&logo=linkedIn&logoColor=white)</a> <a href="https://twitter.com/Christinichka">![alt text](https://img.shields.io/badge/-Twitter-informational?style=plastic&logo=Twitter&logoColor=white) </a>
            </div>
                                                                
-# 💼 Technical Skills
+### 💼 Technical Skills
 <!-- Programming Languages -->
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
