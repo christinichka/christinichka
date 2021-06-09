@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/REPO-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
 
 <!-- <h3> My Languages and Tools: </h3> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinichka&theme=cobalt)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinichka&theme=cobalt) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=christinichka&show_icons=true&theme=cobalt)
 
