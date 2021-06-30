@@ -1,6 +1,6 @@
 <div align="center">
            <h1> 👋 Hi, I'm Christina</h1>
-           <h2>Full-Stack Developer based in Saint Louis, Missouri</h2>
+           <h2>Full-Stack Developer based in St. Louis, Missouri</h2>
            </div>
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=christinichka.christinichka) -->
