@@ -1,11 +1,11 @@
 <div align="center">
            <h1> 👋 Hi, I'm Christina</h1>
-           <h2>Software Engineer based in St. Louis, Missouri</h2>
+           <h2>Software Developer based in St. Louis, Missouri</h2>
            </div>
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=christinichka.christinichka) -->
 
-<!-- <h3>Full-Stack Developer</h3> -->
+<!-- <h2>Full-Stack Developer</h2> -->
 <div align="right"> Connect with me around the web 🌎:
 
 <a href="https://www.linkedin.com/in/christina-varghese"> ![alt text](https://img.shields.io/badge/-LinkedIn-informational?style=plastic&logo=linkedIn&logoColor=white)</a> <a href="https://twitter.com/Christinichka">![alt text](https://img.shields.io/badge/-Twitter-informational?style=plastic&logo=Twitter&logoColor=white) </a>
